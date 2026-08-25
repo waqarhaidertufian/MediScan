@@ -43,8 +43,6 @@ Thumbs.db
 backend/uploads/*
 backend/results/*
 !backend/results/.gitkeep
-*.pt
-*.pth
 
 # Logs
 *.log
