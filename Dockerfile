@@ -22,7 +22,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code
 COPY backend/ ./backend/
-COPY models/ ./models/
 
 # Create necessary directories
 RUN mkdir -p backend/uploads backend/results backend/results/explanations backend/results/gradcam
