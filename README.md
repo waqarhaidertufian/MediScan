@@ -180,11 +180,11 @@ For developers who want to contribute to the project:
 
 MediScan is developed by a multidisciplinary team of AI/ML developers and software engineers:
 
-- **Alok Kumar** - *Full Stack Dev* - Lead developer specializing in AI integration and full-stack development
-- **Amrit Kumar** - *Technical Lead* - Project architect and technical lead overseeing system design and implementation
-- **Aashish Kumar** - *Python Dev* - Backend Python developer specializing in AI model integration and machine learning
-- **Samridhi Bagchi** - *Frontend Developer* - UI/UX specialist focused on creating intuitive medical interfaces
-- **Karan Singh** - *ML Engineer* - AI/ML expert specializing in medical image processing and deep learning model optimization
+- **Waqar Haider** - *Full Stack Dev* - Lead developer specializing in AI integration and full-stack development
+- **Usman Saleem** - *Technical Lead* - Project architect and technical lead overseeing system design and implementation
+- **Raheem Shahid** - *Python Dev* - Backend Python developer specializing in AI model integration and machine learning
+- **Usama Iftikhar** - *Frontend Developer* - UI/UX specialist focused on creating intuitive medical interfaces
+- **Moazam** - *ML Engineer* - AI/ML expert specializing in medical image processing and deep learning model optimization
 
 ## 📜 License
 
